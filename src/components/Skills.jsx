@@ -10,7 +10,7 @@ import Tailwind from '../assets/tailwind.png';
 import Mongo from '../assets/mongo.png';
 import Psql from '../assets/psql.png';
 import Express from '../assets/express.png';
-// import Prisma from '../assets/prisma.png';
+//import Prisma from '../assets/prisma.png';
 import Honojs from '../assets/hono.png';
 import Cloudflare from '../assets/cloudflare.png';
 import Typescript from '../assets/typescript.png';

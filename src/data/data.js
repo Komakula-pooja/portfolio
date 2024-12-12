@@ -6,7 +6,7 @@ export const data=[
         id:1,
         name:"Fullstack - medium Web Application",
         image:medium,
-        github:"https://github.com/Komakula-pooja",
+        github:"https://github.com/Komakula-pooja/frontend",
         live:"https://medium-komakula.vercel.app/",
     },
 ]
