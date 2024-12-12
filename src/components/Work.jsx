@@ -6,7 +6,7 @@ const Work = () => {
 
     // projects file
     const project = data;
-    setProject(data);
+    //setProject(data);
   
   return (
     <div name='work' className='w-full md:min-h-screen text-gray-300 bg-[#0a192f]'>
