@@ -20,14 +20,14 @@ const Home = () => {
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
           I’m a backend developer that occasionally works on the frontend.
         </p>
-        {/* <div>
+        <div>
         <Link className='text-white w-40 group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600' to='work' smooth={true} duration={500}>
             View Work
             <span className='group-hover:rotate-90 duration-300'>
               <HiArrowNarrowRight className='ml-3 ' />
             </span>
         </Link>
-        </div> */}
+        </div>
       </div>
     </div>
   );
