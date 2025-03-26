@@ -1,6 +1,7 @@
 
 import medium from '../assets/mediumpage.png'
 import saptjanm from '../assets/saptjanm.png'
+import notenest from '../assets/notenest.png'
 
 export const data=[
     {
@@ -16,5 +17,12 @@ export const data=[
         image:saptjanm,
         github:"https://github.com/Komakula-pooja/SaptJanm-frontend",
         live:"https://sapt-janm.vercel.app/",
+    },
+    {
+        id:3,
+        name:"Fullstack - Notenest Web Application",
+        image:notenest,
+        github:"https://github.com/Komakula-pooja/NodeNest",
+        live:"https://node-nest-psi.vercel.app/",
     }
 ]
