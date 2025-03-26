@@ -17,7 +17,7 @@ const About = () => {
               <p>Hi. I'm Poojitha, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>I am a backend developer with a slight bit of interest in the frontend. I absolutely love working on backend technologies but don't really enjoy working on frontend part until it is necessary to do so. Although I do like a change sometimes.</p>  
+              <p>I am a Full Stack Developer with a passion for building scalable and efficient web applications. I enjoy working on both frontend and backend, creating seamless user experiences while ensuring robust backend performance. Always eager to learn and adapt to new technologies.</p>  
             </div>
           </div>
       </div>
